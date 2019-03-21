@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: SpamThrottle
+## Notes: Eliminates unnecessary and annoying chat messages
+## Author: Mopar, laytya
+## Version:TBC 1.17
+## SavedVariablesPerCharacter: SpamThrottle_Config 
+## SavedVariables: SpamThrottle_KeywordFilterList SpamThrottle_PlayerFilterList SpamThrottle_PlayerBanTime
+SpamThrottle.xml
